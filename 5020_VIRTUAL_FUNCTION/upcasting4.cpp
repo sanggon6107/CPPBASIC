@@ -17,8 +17,8 @@ class Dog : public Animal {};
 
 int main()
 {
-	std::vector<Dog*> v1; // Dog ¸¸ º¸°ü
-	std::vector<Cat*> v2; // Cat ¸¸ º¸°ü
+	std::vector<Dog*> v1; // Dog ë§Œ ë³´ê´€
+	std::vector<Cat*> v2; // Cat ë§Œ ë³´ê´€
 
-	std::vector<Animal*> v3; // ¸ğµç µ¿¹°º¸°ü
+	std::vector<Animal*> v3; // ëª¨ë“  ë™ë¬¼ë³´ê´€í•  ìˆ˜ ìˆë‹¤.
 }
